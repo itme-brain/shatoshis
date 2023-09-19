@@ -95,5 +95,5 @@ This mobile unit serves as a proof of concept, demonstrating the viability of wa
 
 ## Contact
 
-For more information, contact `info@shits4bits.com`.
+For more information, contact `info@shits4bits.com`.\
 For detailed project plans and updates, visit `shits4bits.com`.
